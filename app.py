@@ -1,2 +1,3 @@
 import utils
-utils.greeting("Kamsani Bin Hashim use WSL")
+utils.greeting("<my_name>")
+utils.goodbye()
