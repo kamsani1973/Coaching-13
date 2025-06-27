@@ -1,2 +1,5 @@
 def greeting(name):
- print("Hello Bro, " + name)
+ print("Hello, " + name)
+
+def goodbye():
+ print("Goodbye")
